@@ -657,6 +657,8 @@ If you intend to reuse or distribute the project, add an appropriate open-source
 
 ## 👨‍💻 Author
 
+Asvin Sam
+
 **WILDTHREAD — Wear the Noise.**
 
 A streetwear e-commerce website developed to demonstrate modern frontend development, responsive design and interactive shopping functionality.
@@ -671,3 +673,7 @@ A streetwear e-commerce website developed to demonstrate modern frontend develop
   <strong>WILDTHREAD © 2026 — ALL NOISE RESERVED.</strong><br>
   <em>Wear the noise. Leave a little static.</em>
 </p>
+
+## SCREENSHOTS
+
+
