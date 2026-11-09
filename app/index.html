@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WILDTHREAD — Wear the noise | Indian Streetwear</title>
+  <meta name="description" content="WILDTHREAD is a loud, playful Indian streetwear label. Oversized tees, hoodies, jeans, joggers, cargos and accessories. Limited drops. Wear the noise.">
+  <meta property="og:title" content="WILDTHREAD — Wear the noise">
+  <meta property="og:description" content="Bold Indian streetwear: oversized tees, hoodies, jeans, joggers, cargos and accessories. Limited drops, free shipping above ₹999.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="assets/hero.jpg">
+  <link rel="icon" type="image/svg+xml" href="assets/icons/favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Anton&family=Permanent+Marker&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/responsive.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <!-- Loader -->
+  <div class="loader" id="loader" aria-hidden="true">
+    <div class="loader__logo">WILD<span>THREAD</span></div>
+    <div class="loader__bar"><i></i></div>
+  </div>
+
+  <!-- Ambient background: blobs + grain + grid -->
+  <div class="bg-fx" aria-hidden="true">
+    <div class="blob blob--acid"></div>
+    <div class="blob blob--pink"></div>
+    <div class="blob blob--blue"></div>
+    <div class="grain"></div>
+  </div>
+
+  <!-- Custom cursor (desktop only) -->
+  <div class="cursor" id="cursor" aria-hidden="true"></div>
+
+  <!-- 1. Announcement bar -->
+  <div class="announce" role="marquee" aria-label="Announcements">
+    <div class="announce__track">
+      <span>FREE SHIPPING ABOVE ₹999 ✦ NEW DROP LIVE ✦ COD AVAILABLE ✦ EASY 7-DAY RETURNS ✦&nbsp;</span>
+      <span aria-hidden="true">FREE SHIPPING ABOVE ₹999 ✦ NEW DROP LIVE ✦ COD AVAILABLE ✦ EASY 7-DAY RETURNS ✦&nbsp;</span>
+      <span aria-hidden="true">FREE SHIPPING ABOVE ₹999 ✦ NEW DROP LIVE ✦ COD AVAILABLE ✦ EASY 7-DAY RETURNS ✦&nbsp;</span>
+    </div>
+  </div>
+
+  <!-- 2. Navbar -->
+  <header class="nav" id="nav">
+    <div class="nav__inner">
+      <a href="#/" class="nav__logo" data-route>WILD<span>THREAD</span></a>
+      <nav class="nav__links" aria-label="Primary">
+        <a href="#/category/t-shirts" data-route>Shop</a>
+        <a href="#/#new" data-anchor="new">New Arrivals</a>
+        <a href="#/#categories" data-anchor="categories">Categories</a>
+        <a href="#/#about" data-anchor="about">About</a>
+        <a href="#/#contact" data-anchor="contact">Contact</a>
+      </nav>
+      <div class="nav__actions">
+        <div class="nav__search">
+          <label class="sr-only" for="search-input">Search products</label>
+          <input type="search" id="search-input" placeholder="Try &quot;blue jeans&quot;…" autocomplete="off"
+                 role="combobox" aria-expanded="false" aria-controls="search-dropdown" aria-haspopup="listbox">
+          <svg class="nav__search-icon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.8-3.8"/></svg>
+          <div class="search-drop" id="search-dropdown" role="listbox" aria-label="Search suggestions" hidden></div>
+        </div>
+        <a href="#/wishlist" class="icon-btn" data-route aria-label="Wishlist">
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><path d="M12 21s-7.5-4.7-9.7-9.2C.7 8.6 2.6 5 6 5c2 0 3.4 1.1 4 2.2h4c.6-1.1 2-2.2 4-2.2 3.4 0 5.3 3.6 2.7 6.8C19.5 16.3 12 21 12 21Z" transform="scale(.92) translate(1,1)"/></svg>
+          <span class="badge" id="wishlist-count" hidden>0</span>
+        </a>
+        <button class="icon-btn" id="cart-open" aria-label="Open cart" aria-haspopup="dialog">
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><path d="M6 7h12l-1.2 12.2a1.8 1.8 0 0 1-1.8 1.8H9a1.8 1.8 0 0 1-1.8-1.8L6 7Z"/><path d="M9 10V6a3 3 0 0 1 6 0v4"/></svg>
+          <span class="badge" id="cart-count" hidden>0</span>
+        </button>
+        <button class="icon-btn nav__burger" id="nav-burger" aria-label="Open menu" aria-expanded="false" aria-controls="mobile-menu">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Mobile menu overlay -->
+  <div class="mobile-menu" id="mobile-menu" role="dialog" aria-modal="true" aria-label="Menu" hidden>
+    <nav class="mobile-menu__links" aria-label="Mobile">
+      <a href="#/" data-route>Home</a>
+      <a href="#/category/t-shirts" data-route>Shop</a>
+      <a href="#/#new" data-anchor="new">New Arrivals</a>
+      <a href="#/#categories" data-anchor="categories">Categories</a>
+      <a href="#/#about" data-anchor="about">About</a>
+      <a href="#/#contact" data-anchor="contact">Contact</a>
+      <a href="#/wishlist" data-route>Wishlist</a>
+    </nav>
+  </div>
+
+  <main id="main">
+    <!-- ============ HOME VIEW (static, works without JS) ============ -->
+    <div id="view-home">
+
+      <!-- 3. Hero -->
+      <section class="hero" id="home">
+        <div class="hero__copy">
+          <p class="hero__kicker marker">est. 2026 · mumbai → everywhere</p>
+          <h1 class="hero__title">
+            <span class="reveal-line">WEAR</span>
+            <span class="reveal-line outline">THE</span>
+            <span class="reveal-line">NOISE</span>
+          </h1>
+          <p class="hero__sub">Oversized fits, heavyweight fabric, zero chill. Streetwear made in India for the loud ones.</p>
+          <div class="hero__ctas">
+            <a href="#/#new" class="btn btn--acid" data-anchor="new" data-magnet>Shop the Drop</a>
+            <a href="#/#categories" class="btn btn--ghost" data-anchor="categories" data-magnet>Shop Categories</a>
+          </div>
+        </div>
+        <div class="hero__media">
+          <img src="assets/hero.jpg" alt="Model in an orange WILDTHREAD hoodie holding a smoke flare" width="1200" height="1500" fetchpriority="high">
+          <span class="sticker sticker--star" aria-hidden="true">★</span>
+          <span class="sticker sticker--smile" aria-hidden="true">☺</span>
+          <span class="sticker sticker--new marker" aria-hidden="true">NEW!</span>
+          <span class="sticker sticker--arrow" aria-hidden="true">➜</span>
+          <div class="hero__badge" aria-hidden="true">
+            <svg viewBox="0 0 120 120" width="120" height="120">
+              <defs><path id="circlePath" d="M60,60 m-44,0 a44,44 0 1,1 88,0 a44,44 0 1,1 -88,0"/></defs>
+              <text><textPath href="#circlePath">NEW COLLECTION • 2026 • NEW COLLECTION • 2026 •</textPath></text>
+            </svg>
+            <span class="hero__badge-core">✦</span>
+          </div>
+        </div>
+        <a class="hero__scroll" href="#/#categories" data-anchor="categories" aria-label="Scroll to categories">
+          <span></span> scroll
+        </a>
+      </section>
+
+      <!-- 4. Brand marquee strip -->
+      <div class="strip" aria-hidden="true">
+        <div class="strip__track">
+          <span>OVERSIZED ✦ STREET ✦ UNISEX ✦ LIMITED DROPS ✦ </span><span>OVERSIZED ✦ STREET ✦ UNISEX ✦ LIMITED DROPS ✦ </span><span>OVERSIZED ✦ STREET ✦ UNISEX ✦ LIMITED DROPS ✦ </span>
+        </div>
+      </div>
+
+      <!-- 5. Shop by category -->
+      <section class="section" id="categories">
+        <div class="section__head">
+          <h2 class="section__title">SHOP BY <em>CATEGORY</em></h2>
+          <p class="section__sub marker">pick your poison ↓</p>
+        </div>
+        <div class="cat-grid" id="cat-grid">
+          <noscript><p>Enable JavaScript to browse categories, or open <code>data/products.json</code>.</p></noscript>
+        </div>
+      </section>
+
+      <!-- 6. New arrivals / Best sellers -->
+      <section class="section" id="new">
+        <div class="section__head">
+          <h2 class="section__title">FRESH &amp; <em>ICONIC</em></h2>
+          <div class="tabs" role="tablist" aria-label="Product lists">
+            <button class="tab is-active" role="tab" aria-selected="true" data-tab="new" id="tab-new">New Arrivals</button>
+            <button class="tab" role="tab" aria-selected="false" data-tab="bestseller" id="tab-bestseller">Best Sellers</button>
+          </div>
+        </div>
+        <div class="product-grid" id="home-grid" role="tabpanel" aria-live="polite"></div>
+      </section>
+
+      <!-- 7. Featured drop banner -->
+      <section class="drop" id="drop">
+        <div class="drop__media">
+          <img src="assets/drop.jpg" alt="Silhouettes of runners at night under a blue sky — the Night Rider drop" width="1600" height="900" loading="lazy">
+        </div>
+        <div class="drop__copy">
+          <p class="marker drop__kicker">limited · 200 pieces · then gone forever</p>
+          <h2 class="drop__title">DROP 04:<br>NIGHT RIDER</h2>
+          <div class="countdown" id="countdown" role="timer" aria-label="Time until the Night Rider drop">
+            <div><b data-cd="d">00</b><span>days</span></div>
+            <div><b data-cd="h">00</b><span>hrs</span></div>
+            <div><b data-cd="m">00</b><span>min</span></div>
+            <div><b data-cd="s">00</b><span>sec</span></div>
+          </div>
+          <button class="btn btn--pink" id="notify-btn" data-magnet>Notify me</button>
+        </div>
+      </section>
+
+      <!-- 8. Why choose us -->
+      <section class="section" id="about">
+        <div class="section__head">
+          <h2 class="section__title">WHY <em>WILDTHREAD</em>?</h2>
+          <p class="section__sub marker">because basics are boring</p>
+        </div>
+        <div class="why-grid">
+          <article class="why-card" data-tilt>
+            <div class="why-card__icon" aria-hidden="true">240<small>GSM</small></div>
+            <h3>Premium 240 GSM cotton</h3>
+            <p>Heavyweight, bio-washed fabric that holds its shape wash after wash. No see-through nonsense.</p>
+          </article>
+          <article class="why-card" data-tilt>
+            <div class="why-card__icon" aria-hidden="true">XL<small>FIT</small></div>
+            <h3>True oversized fit</h3>
+            <p>Dropped shoulders and boxy cuts, patterned on real Indian bodies — not sized-up imports.</p>
+          </article>
+          <article class="why-card" data-tilt>
+            <div class="why-card__icon" aria-hidden="true">7<small>DAYS</small></div>
+            <h3>Easy 7-day returns</h3>
+            <p>Didn't vibe with it? Return within 7 days, no interrogation. Refund hits in 48 hours.</p>
+          </article>
+          <article class="why-card" data-tilt>
+            <div class="why-card__icon" aria-hidden="true">48<small>HRS</small></div>
+            <h3>Fast shipping</h3>
+            <p>Dispatched in 48 hours, free above ₹999. COD available across 27,000+ pincodes.</p>
+          </article>
+        </div>
+      </section>
+
+      <!-- 9. Testimonials + Instagram grid -->
+      <section class="section section--pink" id="community">
+        <div class="section__head">
+          <h2 class="section__title">THE <em>GANG</em> TALKS</h2>
+          <p class="section__sub marker">#WILDTHREADGANG</p>
+        </div>
+        <div class="swiper" id="reviews-swiper">
+          <div class="swiper-wrapper" id="reviews-wrapper"><!-- JS renders review slides --></div>
+          <div class="swiper-pagination"></div>
+        </div>
+        <div class="insta-grid" id="insta-grid">
+          <img src="assets/insta-1.jpg" alt="Community member in a black leather jacket on a rooftop" loading="lazy" width="900" height="1125">
+          <img src="assets/insta-2.jpg" alt="Community member in a burgundy coat with red sunglasses" loading="lazy" width="900" height="1125">
+          <img src="assets/insta-3.jpg" alt="Community member in a blue trench coat feeding pigeons" loading="lazy" width="900" height="1125">
+          <img src="assets/insta-4.jpg" alt="Flat lay of a white WILDTHREAD sweatshirt" loading="lazy" width="900" height="1125">
+          <img src="assets/insta-5.jpg" alt="Community member carrying a canvas tote on a London street" loading="lazy" width="900" height="1125">
+          <img src="assets/insta-6.jpg" alt="Community member with a colourful zig-zag tote bag" loading="lazy" width="900" height="1125">
+        </div>
+      </section>
+
+      <!-- 10. Newsletter -->
+      <section class="newsletter" id="newsletter">
+        <div class="newsletter__inner">
+          <h2 class="newsletter__title">JOIN THE GANG,<br>GET <em>10% OFF</em></h2>
+          <p>Drops sell out in hours. Gang members hear first.</p>
+          <form id="newsletter-form" novalidate>
+            <label class="sr-only" for="newsletter-email">Email address</label>
+            <input type="email" id="newsletter-email" placeholder="your@email.com" required>
+            <button type="submit" class="btn btn--dark">Sign me up</button>
+          </form>
+          <p class="form-msg" id="newsletter-msg" role="status" aria-live="polite"></p>
+        </div>
+      </section>
+
+      <!-- 11. Footer -->
+      <footer class="footer" id="contact">
+        <div class="footer__wordmark" aria-hidden="true">WILDTHREAD</div>
+        <div class="footer__cols">
+          <div class="footer__col">
+            <h3>Shop</h3>
+            <a href="#/category/t-shirts" data-route>T-Shirts</a>
+            <a href="#/category/hoodies" data-route>Hoodies</a>
+            <a href="#/category/jeans" data-route>Jeans</a>
+            <a href="#/category/joggers" data-route>Joggers</a>
+            <a href="#/category/cargos" data-route>Cargos</a>
+            <a href="#/category/accessories" data-route>Accessories</a>
+          </div>
+          <div class="footer__col">
+            <h3>Help</h3>
+            <a href="#/#about" data-anchor="about">Shipping &amp; Returns</a>
+            <a href="#/#about" data-anchor="about">Size Guide</a>
+            <a href="#/#contact" data-anchor="contact">Contact Us</a>
+            <a href="#/checkout" data-route>Track Order</a>
+          </div>
+          <div class="footer__col">
+            <h3>Company</h3>
+            <a href="#/#about" data-anchor="about">About</a>
+            <a href="#/#community" data-anchor="community">Community</a>
+            <a href="#/#drop" data-anchor="drop">Drops</a>
+          </div>
+          <div class="footer__col">
+            <h3>Policies</h3>
+            <a href="#/#about" data-anchor="about">Privacy Policy</a>
+            <a href="#/#about" data-anchor="about">Terms of Service</a>
+            <a href="#/#about" data-anchor="about">Refund Policy</a>
+          </div>
+          <div class="footer__col footer__col--contact">
+            <h3>Hit us up</h3>
+            <p>shabang@wildthread.in<br>+91 98765 43210<br>Bandra West, Mumbai 400050</p>
+            <div class="footer__social">
+              <a href="https://instagram.com" target="_blank" rel="noopener" aria-label="Instagram"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.2" cy="6.8" r="1.2" fill="currentColor" stroke="none"/></svg></a>
+              <a href="https://x.com" target="_blank" rel="noopener" aria-label="X (Twitter)"><svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M17.7 3H21l-7.2 8.3L22.3 21h-6.6l-5.2-6.2L4.5 21H1.2l7.7-8.9L1.7 3h6.8l4.7 5.6L17.7 3Zm-1.2 16h1.8L6.7 4.9H4.8L16.5 19Z"/></svg></a>
+              <a href="https://youtube.com" target="_blank" rel="noopener" aria-label="YouTube"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><rect x="2.5" y="5.5" width="19" height="13" rx="4"/><path d="m10.5 9.5 5 2.5-5 2.5v-5Z" fill="currentColor" stroke="none"/></svg></a>
+            </div>
+            <div class="footer__pay" aria-label="Accepted payments">
+              <span>UPI</span><span>VISA</span><span>MC</span><span>COD</span>
+            </div>
+          </div>
+        </div>
+        <div class="footer__base">
+          <p>© 2026 WILDTHREAD. Wear the noise.</p>
+          <p class="footer__credits">Photo credits: Unsplash &amp; assorted royalty-free sources — see README.</p>
+        </div>
+      </footer>
+    </div>
+
+    <!-- ============ DYNAMIC ROUTE VIEW (category/product/search/checkout/wishlist/order) ============ -->
+    <div id="view-route" hidden></div>
+  </main>
+
+  <!-- Cart drawer -->
+  <div class="drawer-overlay" id="drawer-overlay" hidden></div>
+  <aside class="cart-drawer" id="cart-drawer" role="dialog" aria-modal="true" aria-label="Shopping cart" hidden>
+    <div class="cart-drawer__head">
+      <h2>Your Cart <span id="cart-head-count"></span></h2>
+      <button class="icon-btn" id="cart-close" aria-label="Close cart">✕</button>
+    </div>
+    <div class="cart-drawer__ship" id="ship-progress"></div>
+    <div class="cart-drawer__items" id="cart-items"></div>
+    <div class="cart-drawer__foot" id="cart-foot"></div>
+  </aside>
+
+  <!-- Toasts -->
+  <div class="toasts" id="toasts" aria-live="polite" aria-atomic="false"></div>
+
+  <!-- Back to top -->
+  <button class="to-top" id="to-top" aria-label="Back to top" hidden>↑</button>
+
+  <!-- Screen-reader announcements -->
+  <div class="sr-only" aria-live="polite" id="sr-announcer"></div>
+
+  <noscript>
+    <style>#view-route{display:none!important}</style>
+    <p style="padding:16px;text-align:center">WILDTHREAD works best with JavaScript enabled — cart, search and filters need it. The catalogue lives in <code>data/products.json</code>.</p>
+  </noscript>
+
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.js"></script>
+  <script defer src="data/products-data.js"></script>
+  <script defer src="js/products.js"></script>
+  <script defer src="js/store.js"></script>
+  <script defer src="js/search.js"></script>
+  <script defer src="js/ui.js"></script>
+  <script defer src="js/checkout.js"></script>
+  <script defer src="js/router.js"></script>
+  <script defer src="js/main.js"></script>
+</body>
+</html>

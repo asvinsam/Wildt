@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1125" viewBox="0 0 900 1125">
+  <rect width="900" height="1125" fill="#0b0b0f"/>
+  <rect x="30" y="30" width="840" height="1065" fill="none" stroke="#e8ff3a" stroke-width="6" stroke-dasharray="24 14"/>
+  <text x="450" y="520" font-family="Arial Black, Arial, sans-serif" font-size="120" font-weight="900" fill="#e8ff3a" text-anchor="middle">WILD</text>
+  <text x="450" y="660" font-family="Arial Black, Arial, sans-serif" font-size="120" font-weight="900" fill="none" stroke="#ff2e93" stroke-width="3" text-anchor="middle">THREAD</text>
+  <text x="450" y="740" font-family="Arial, sans-serif" font-size="34" letter-spacing="6" fill="#f4f1ea" text-anchor="middle">IMAGE DROPPING SOON</text>
+</svg>

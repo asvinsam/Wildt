@@ -1,0 +1,1769 @@
+[
+  {
+    "id": "wt-t01",
+    "name": "Static Noise Oversized Tee",
+    "slug": "static-noise-oversized-tee-white",
+    "category": "t-shirts",
+    "type": "t-shirt",
+    "price": 899,
+    "mrp": 1099,
+    "colors": [
+      {
+        "name": "White",
+        "hex": "#f4f1ea"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "S": 2,
+      "M": 0,
+      "L": 0,
+      "XL": 15,
+      "XXL": 5
+    },
+    "images": [
+      "assets/products/tee-white.jpg",
+      "assets/products/tee-white-2.jpg"
+    ],
+    "description": "Our heaviest blank, cut boxy and long. The white tee that started the riot.",
+    "fabric": "240 GSM 100% combed cotton · oversized drop-shoulder fit · bio-washed · machine wash cold, inside out",
+    "tags": [
+      "bestseller"
+    ],
+    "createdAt": "2026-09-28"
+  },
+  {
+    "id": "wt-t02",
+    "name": "Peace Out Graphic Tee",
+    "slug": "peace-out-graphic-tee-black",
+    "category": "t-shirts",
+    "type": "t-shirt",
+    "price": 899,
+    "mrp": 1299,
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#17171c"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "S": 3,
+      "M": 3,
+      "L": 3,
+      "XL": 15,
+      "XXL": 0
+    },
+    "images": [
+      "assets/products/tee-black-graphic.jpg",
+      "assets/products/tee-black-graphic.jpg"
+    ],
+    "description": "Skeleton-peace chest print on jet black 240 GSM cotton. Loud without saying a word.",
+    "fabric": "240 GSM 100% combed cotton · oversized drop-shoulder fit · bio-washed · machine wash cold, inside out",
+    "tags": [
+      "new",
+      "bestseller"
+    ],
+    "createdAt": "2026-10-12"
+  },
+  {
+    "id": "wt-t03",
+    "name": "Desert Mirage Tee",
+    "slug": "desert-mirage-tee-ecru",
+    "category": "t-shirts",
+    "type": "t-shirt",
+    "price": 799,
+    "mrp": 1199,
+    "colors": [
+      {
+        "name": "Ecru",
+        "hex": "#e6dcc8"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "S": 15,
+      "M": 15,
+      "L": 12,
+      "XL": 0,
+      "XXL": 12
+    },
+    "images": [
+      "assets/products/tee-ecru.jpg",
+      "assets/products/tee-ecru.jpg"
+    ],
+    "description": "Washed ecru tee with a front graphic hit. Goes with everything you own.",
+    "fabric": "240 GSM 100% combed cotton · oversized drop-shoulder fit · bio-washed · machine wash cold, inside out",
+    "tags": [],
+    "createdAt": "2026-08-15"
+  },
+  {
+    "id": "wt-t04",
+    "name": "Midnight Manifesto Tee",
+    "slug": "midnight-manifesto-tee-black",
+    "category": "t-shirts",
+    "type": "t-shirt",
+    "price": 949,
+    "mrp": 1299,
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#17171c"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "S": 8,
+      "M": 0,
+      "L": 0,
+      "XL": 0,
+      "XXL": 3
+    },
+    "images": [
+      "assets/products/tee-black-oversized.jpg",
+      "assets/products/tee-black-alt.jpg"
+    ],
+    "description": "Oversized black tee with a micro chest statement. Dropped shoulders, zero apologies.",
+    "fabric": "240 GSM 100% combed cotton · oversized drop-shoulder fit · bio-washed · machine wash cold, inside out",
+    "tags": [
+      "bestseller"
+    ],
+    "createdAt": "2026-09-05"
+  },
+  {
+    "id": "wt-t05",
+    "name": "Sage Advice Oversized Tee",
+    "slug": "sage-advice-oversized-tee",
+    "category": "t-shirts",
+    "type": "t-shirt",
+    "price": 799,
+    "mrp": 1099,
+    "colors": [
+      {
+        "name": "Sage",
+        "hex": "#a8b09a"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "S": 3,
+      "M": 12,
+      "L": 12,
+      "XL": 0,
+      "XXL": 12
+    },
+    "images": [
+      "assets/products/tee-sage.jpg",
+      "assets/products/tee-sage.jpg"
+    ],
+    "description": "Muted sage green, garment-dyed for a lived-in feel. The quiet one in a loud drop.",
+    "fabric": "240 GSM 100% combed cotton · oversized drop-shoulder fit · bio-washed · machine wash cold, inside out",
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-10-18"
+  },
+  {
+    "id": "wt-t06",
+    "name": "Tour Diary Graphic Tee",
+    "slug": "tour-diary-graphic-tee-white",
+    "category": "t-shirts",
+    "type": "t-shirt",
+    "price": 849,
+    "mrp": 1199,
+    "colors": [
+      {
+        "name": "White",
+        "hex": "#f4f1ea"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "S": 3,
+      "M": 15,
+      "L": 15,
+      "XL": 15,
+      "XXL": 12
+    },
+    "images": [
+      "assets/products/tee-white-graphic.jpg",
+      "assets/products/tee-white-graphic.jpg"
+    ],
+    "description": "Bootleg-style front graphic on crisp white. Looks stolen from a 90s merch stand.",
+    "fabric": "240 GSM 100% combed cotton · oversized drop-shoulder fit · bio-washed · machine wash cold, inside out",
+    "tags": [],
+    "createdAt": "2026-07-20"
+  },
+  {
+    "id": "wt-t07",
+    "name": "Cherry Bomb Tee",
+    "slug": "cherry-bomb-tee-red",
+    "category": "t-shirts",
+    "type": "t-shirt",
+    "price": 899,
+    "mrp": 1249,
+    "colors": [
+      {
+        "name": "Red",
+        "hex": "#c02739"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "S": 8,
+      "M": 3,
+      "L": 8,
+      "XL": 12,
+      "XXL": 5
+    },
+    "images": [
+      "assets/products/tee-red.jpg",
+      "assets/products/tee-red.jpg"
+    ],
+    "description": "Signal-red oversized tee. Wear it when you want to be seen from space.",
+    "fabric": "240 GSM 100% combed cotton · oversized drop-shoulder fit · bio-washed · machine wash cold, inside out",
+    "tags": [
+      "bestseller"
+    ],
+    "createdAt": "2026-09-14"
+  },
+  {
+    "id": "wt-t08",
+    "name": "Navy Nights Tee",
+    "slug": "navy-nights-tee",
+    "category": "t-shirts",
+    "type": "t-shirt",
+    "price": 749,
+    "mrp": 999,
+    "colors": [
+      {
+        "name": "Navy",
+        "hex": "#1f2a5c"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "S": 20,
+      "M": 20,
+      "L": 0,
+      "XL": 20,
+      "XXL": 20
+    },
+    "images": [
+      "assets/products/tee-navy.jpg",
+      "assets/products/tee-navy-2.jpg"
+    ],
+    "description": "Deep navy essential. Front and back stay clean so your fit does the talking.",
+    "fabric": "240 GSM 100% combed cotton · oversized drop-shoulder fit · bio-washed · machine wash cold, inside out",
+    "tags": [],
+    "createdAt": "2026-06-30"
+  },
+  {
+    "id": "wt-h01",
+    "name": "Cloud Cover Hoodie",
+    "slug": "cloud-cover-hoodie-grey",
+    "category": "hoodies",
+    "type": "hoodie",
+    "price": 1799,
+    "mrp": 2499,
+    "colors": [
+      {
+        "name": "Grey",
+        "hex": "#9aa0a6"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "S": 3,
+      "M": 15,
+      "L": 8,
+      "XL": 5,
+      "XXL": 5
+    },
+    "images": [
+      "assets/products/hoodie-grey.jpg",
+      "assets/products/hoodie-grey.jpg"
+    ],
+    "description": "Grey melange fleece hoodie with a double-layered hood. Feels like a hug from a cloud.",
+    "fabric": "400 GSM brushed fleece (80% cotton, 20% poly) · oversized fit · kangaroo pocket · ribbed cuffs",
+    "tags": [
+      "bestseller"
+    ],
+    "createdAt": "2026-09-22"
+  },
+  {
+    "id": "wt-h02",
+    "name": "Charcoal Static Hoodie",
+    "slug": "charcoal-static-hoodie",
+    "category": "hoodies",
+    "type": "hoodie",
+    "price": 1699,
+    "mrp": 2299,
+    "colors": [
+      {
+        "name": "Charcoal",
+        "hex": "#3a3a40"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "S": 3,
+      "M": 3,
+      "L": 20,
+      "XL": 5,
+      "XXL": 0
+    },
+    "images": [
+      "assets/products/hoodie-charcoal.jpg",
+      "assets/products/hoodie-charcoal.jpg"
+    ],
+    "description": "Charcoal hoodie with tonal drawcords. The daily driver of your winter rotation.",
+    "fabric": "400 GSM brushed fleece (80% cotton, 20% poly) · oversized fit · kangaroo pocket · ribbed cuffs",
+    "tags": [],
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "wt-h03",
+    "name": "Blackout Street Hoodie",
+    "slug": "blackout-street-hoodie",
+    "category": "hoodies",
+    "type": "hoodie",
+    "price": 1999,
+    "mrp": 2499,
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#17171c"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "S": 0,
+      "M": 8,
+      "L": 0,
+      "XL": 2,
+      "XXL": 20
+    },
+    "images": [
+      "assets/products/hoodie-black.jpg",
+      "assets/products/hoodie-black-2.jpg"
+    ],
+    "description": "Pitch-black oversized hoodie, hood up, world off. Our best-selling silhouette.",
+    "fabric": "400 GSM brushed fleece (80% cotton, 20% poly) · oversized fit · kangaroo pocket · ribbed cuffs",
+    "tags": [
+      "bestseller"
+    ],
+    "createdAt": "2026-09-30"
+  },
+  {
+    "id": "wt-h04",
+    "name": "Night Shift Corset Hoodie",
+    "slug": "night-shift-corset-hoodie-black",
+    "category": "hoodies",
+    "type": "hoodie",
+    "price": 2199,
+    "mrp": 2499,
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#17171c"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "S": 5,
+      "M": 12,
+      "L": 5,
+      "XL": 20,
+      "XXL": 0
+    },
+    "images": [
+      "assets/products/hoodie-black-2.jpg",
+      "assets/products/hoodie-black.jpg"
+    ],
+    "description": "Cinched-waist black hoodie with an attitude problem. Editorial cut, street price.",
+    "fabric": "400 GSM brushed fleece (80% cotton, 20% poly) · oversized fit · kangaroo pocket · ribbed cuffs",
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-10-20"
+  },
+  {
+    "id": "wt-h05",
+    "name": "Sky Signal Hoodie",
+    "slug": "sky-signal-hoodie-blue",
+    "category": "hoodies",
+    "type": "hoodie",
+    "price": 1899,
+    "mrp": 2399,
+    "colors": [
+      {
+        "name": "Blue",
+        "hex": "#3d5af1"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "S": 15,
+      "M": 8,
+      "L": 12,
+      "XL": 0,
+      "XXL": 8
+    },
+    "images": [
+      "assets/products/hoodie-blue.jpg",
+      "assets/products/hoodie-blue.jpg"
+    ],
+    "description": "Cobalt-blue hoodie with a chest graphic. Pops hard against grey city skies.",
+    "fabric": "400 GSM brushed fleece (80% cotton, 20% poly) · oversized fit · kangaroo pocket · ribbed cuffs",
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-10-08"
+  },
+  {
+    "id": "wt-h06",
+    "name": "Deep Navy Hoodie",
+    "slug": "deep-navy-hoodie",
+    "category": "hoodies",
+    "type": "hoodie",
+    "price": 1799,
+    "mrp": 2299,
+    "colors": [
+      {
+        "name": "Navy",
+        "hex": "#1f2a5c"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "S": 0,
+      "M": 12,
+      "L": 5,
+      "XL": 20,
+      "XXL": 15
+    },
+    "images": [
+      "assets/products/hoodie-navy.jpg",
+      "assets/products/hoodie-navy.jpg"
+    ],
+    "description": "Navy fleece hoodie with a tonal chest crest. Low-key colour, high-key comfort.",
+    "fabric": "400 GSM brushed fleece (80% cotton, 20% poly) · oversized fit · kangaroo pocket · ribbed cuffs",
+    "tags": [],
+    "createdAt": "2026-07-11"
+  },
+  {
+    "id": "wt-h07",
+    "name": "Vanilla Cloud Hoodie",
+    "slug": "vanilla-cloud-hoodie-cream",
+    "category": "hoodies",
+    "type": "hoodie",
+    "price": 1999,
+    "mrp": 2499,
+    "colors": [
+      {
+        "name": "Cream",
+        "hex": "#ece5d8"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "S": 12,
+      "M": 20,
+      "L": 5,
+      "XL": 12,
+      "XXL": 3
+    },
+    "images": [
+      "assets/products/hoodie-cream.jpg",
+      "assets/products/hoodie-cream-2.jpg"
+    ],
+    "description": "Cream oversized hoodie in heavy brushed fleece. Soft enough to cancel plans for.",
+    "fabric": "400 GSM brushed fleece (80% cotton, 20% poly) · oversized fit · kangaroo pocket · ribbed cuffs",
+    "tags": [
+      "bestseller"
+    ],
+    "createdAt": "2026-09-18"
+  },
+  {
+    "id": "wt-h08",
+    "name": "Bubblegum Riot Hoodie",
+    "slug": "bubblegum-riot-hoodie-pink",
+    "category": "hoodies",
+    "type": "hoodie",
+    "price": 1899,
+    "mrp": 2399,
+    "colors": [
+      {
+        "name": "Pink",
+        "hex": "#ff7ab8"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "S": 15,
+      "M": 0,
+      "L": 0,
+      "XL": 15,
+      "XXL": 3
+    },
+    "images": [
+      "assets/products/hoodie-pink.jpg",
+      "assets/products/hoodie-pink-2.jpg"
+    ],
+    "description": "Hot-pink hoodie that photographs like a dream. Gang favourite, restocked twice.",
+    "fabric": "400 GSM brushed fleece (80% cotton, 20% poly) · oversized fit · kangaroo pocket · ribbed cuffs",
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-10-15"
+  },
+  {
+    "id": "wt-j01",
+    "name": "Skyline Slim Jeans",
+    "slug": "skyline-slim-jeans-light-blue",
+    "category": "jeans",
+    "type": "jeans",
+    "price": 1599,
+    "mrp": 2199,
+    "colors": [
+      {
+        "name": "Light Blue",
+        "hex": "#7fa8d9"
+      }
+    ],
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "stock": {
+      "28": 20,
+      "30": 5,
+      "32": 0,
+      "34": 20,
+      "36": 3
+    },
+    "images": [
+      "assets/products/jeans-lightblue.jpg",
+      "assets/products/jeans-lightblue-2.jpg"
+    ],
+    "description": "Light-wash slim jeans with a clean taper. Sun-faded like a Mumbai summer.",
+    "fabric": "12.5 oz non-stretch denim (100% cotton) · mid-rise · button fly · machine wash cold",
+    "tags": [
+      "bestseller"
+    ],
+    "createdAt": "2026-09-25"
+  },
+  {
+    "id": "wt-j02",
+    "name": "Downtown Straight Jeans",
+    "slug": "downtown-straight-jeans-mid-blue",
+    "category": "jeans",
+    "type": "jeans",
+    "price": 1499,
+    "mrp": 1999,
+    "colors": [
+      {
+        "name": "Mid Blue",
+        "hex": "#4a6fa5"
+      }
+    ],
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "stock": {
+      "28": 20,
+      "30": 0,
+      "32": 8,
+      "34": 5,
+      "36": 8
+    },
+    "images": [
+      "assets/products/jeans-midblue.jpg",
+      "assets/products/jeans-midblue-2.jpg"
+    ],
+    "description": "Mid-blue straight-leg jeans. The one pair your sneakers keep asking about.",
+    "fabric": "12.5 oz non-stretch denim (100% cotton) · mid-rise · button fly · machine wash cold",
+    "tags": [],
+    "createdAt": "2026-08-19"
+  },
+  {
+    "id": "wt-j03",
+    "name": "Indigo Hour Jeans",
+    "slug": "indigo-hour-jeans-dark-blue",
+    "category": "jeans",
+    "type": "jeans",
+    "price": 1699,
+    "mrp": 2299,
+    "colors": [
+      {
+        "name": "Dark Indigo",
+        "hex": "#22335c"
+      }
+    ],
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "stock": {
+      "28": 15,
+      "30": 20,
+      "32": 5,
+      "34": 3,
+      "36": 5
+    },
+    "images": [
+      "assets/products/jeans-darkblue.jpg",
+      "assets/products/jeans-darkblue-2.jpg"
+    ],
+    "description": "Dark indigo jeans, rigid denim that breaks in like a good story.",
+    "fabric": "12.5 oz non-stretch denim (100% cotton) · mid-rise · button fly · machine wash cold",
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-10-10"
+  },
+  {
+    "id": "wt-j04",
+    "name": "Riot Ripped Jeans",
+    "slug": "riot-ripped-jeans-black",
+    "category": "jeans",
+    "type": "jeans",
+    "price": 1899,
+    "mrp": 2299,
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#1a1a1e"
+      }
+    ],
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "stock": {
+      "28": 2,
+      "30": 3,
+      "32": 15,
+      "34": 5,
+      "36": 15
+    },
+    "images": [
+      "assets/products/jeans-black.jpg",
+      "assets/products/jeans-black.jpg"
+    ],
+    "description": "Black ripped jeans with blown-out knees. Pre-chaosed so you don't have to.",
+    "fabric": "12.5 oz non-stretch denim (100% cotton) · mid-rise · button fly · machine wash cold",
+    "tags": [
+      "bestseller"
+    ],
+    "createdAt": "2026-09-08"
+  },
+  {
+    "id": "wt-j05",
+    "name": "Shadow Stack Jeans",
+    "slug": "shadow-stack-jeans-black",
+    "category": "jeans",
+    "type": "jeans",
+    "price": 1799,
+    "mrp": 2199,
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#232328"
+      }
+    ],
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "stock": {
+      "28": 0,
+      "30": 0,
+      "32": 0,
+      "34": 0,
+      "36": 0
+    },
+    "images": [
+      "assets/products/jeans-black2.jpg",
+      "assets/products/jeans-black2.jpg"
+    ],
+    "description": "Stacked black denim with a long inseam. Sold out everywhere, obviously.",
+    "fabric": "12.5 oz non-stretch denim (100% cotton) · mid-rise · button fly · machine wash cold",
+    "tags": [],
+    "createdAt": "2026-06-12"
+  },
+  {
+    "id": "wt-j06",
+    "name": "Concrete Baggy Jeans",
+    "slug": "concrete-baggy-jeans-grey",
+    "category": "jeans",
+    "type": "jeans",
+    "price": 1699,
+    "mrp": 2199,
+    "colors": [
+      {
+        "name": "Grey",
+        "hex": "#9a9a9e"
+      }
+    ],
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "stock": {
+      "28": 15,
+      "30": 15,
+      "32": 0,
+      "34": 12,
+      "36": 15
+    },
+    "images": [
+      "assets/products/jeans-grey.jpg",
+      "assets/products/jeans-grey.jpg"
+    ],
+    "description": "Grey baggy jeans with a wide leg. Skate-park approved, office questionable.",
+    "fabric": "12.5 oz non-stretch denim (100% cotton) · mid-rise · button fly · machine wash cold",
+    "tags": [],
+    "createdAt": "2026-10-05"
+  },
+  {
+    "id": "wt-j07",
+    "name": "White Noise Wide Jeans",
+    "slug": "white-noise-wide-jeans",
+    "category": "jeans",
+    "type": "jeans",
+    "price": 1899,
+    "mrp": 2299,
+    "colors": [
+      {
+        "name": "White",
+        "hex": "#efeee9"
+      }
+    ],
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "stock": {
+      "28": 3,
+      "30": 12,
+      "32": 15,
+      "34": 3,
+      "36": 3
+    },
+    "images": [
+      "assets/products/jeans-white.jpg",
+      "assets/products/jeans-white-2.jpg"
+    ],
+    "description": "Off-white wide-leg jeans. Brave colour, braver wearer.",
+    "fabric": "12.5 oz non-stretch denim (100% cotton) · mid-rise · button fly · machine wash cold",
+    "tags": [],
+    "createdAt": "2026-08-27"
+  },
+  {
+    "id": "wt-j08",
+    "name": "Olive Branch Jeans",
+    "slug": "olive-branch-jeans",
+    "category": "jeans",
+    "type": "jeans",
+    "price": 1599,
+    "mrp": 2099,
+    "colors": [
+      {
+        "name": "Olive",
+        "hex": "#6b6b3a"
+      }
+    ],
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "stock": {
+      "28": 8,
+      "30": 8,
+      "32": 5,
+      "34": 15,
+      "36": 15
+    },
+    "images": [
+      "assets/products/jeans-olive.jpg",
+      "assets/products/jeans-olive.jpg"
+    ],
+    "description": "Olive-dyed denim in a relaxed fit. Earthy tone, unearthly comfort.",
+    "fabric": "12.5 oz non-stretch denim (100% cotton) · mid-rise · button fly · machine wash cold",
+    "tags": [],
+    "createdAt": "2026-07-15"
+  },
+  {
+    "id": "wt-jg01",
+    "name": "Nightcrawler Joggers",
+    "slug": "nightcrawler-joggers-black",
+    "category": "joggers",
+    "type": "jogger",
+    "price": 1399,
+    "mrp": 1899,
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#17171c"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "S": 12,
+      "M": 3,
+      "L": 15,
+      "XL": 5,
+      "XXL": 20
+    },
+    "images": [
+      "assets/products/jogger-black.jpg",
+      "assets/products/jogger-black.jpg"
+    ],
+    "description": "Black cuffed joggers with deep pockets. Built for 2am food runs.",
+    "fabric": "320 GSM loopback cotton · elasticated drawstring waist · cuffed hems",
+    "tags": [
+      "bestseller"
+    ],
+    "createdAt": "2026-09-12"
+  },
+  {
+    "id": "wt-jg02",
+    "name": "Acid Sun Joggers",
+    "slug": "acid-sun-joggers-yellow",
+    "category": "joggers",
+    "type": "jogger",
+    "price": 1499,
+    "mrp": 1999,
+    "colors": [
+      {
+        "name": "Yellow",
+        "hex": "#e8ff3a"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "S": 20,
+      "M": 20,
+      "L": 0,
+      "XL": 3,
+      "XXL": 20
+    },
+    "images": [
+      "assets/products/jogger-yellow.jpg",
+      "assets/products/jogger-yellow.jpg"
+    ],
+    "description": "Acid-yellow joggers that glow against concrete. High-vis, high-fashion.",
+    "fabric": "320 GSM loopback cotton · elasticated drawstring waist · cuffed hems",
+    "tags": [
+      "new",
+      "bestseller"
+    ],
+    "createdAt": "2026-10-22"
+  },
+  {
+    "id": "wt-jg03",
+    "name": "Sandstorm Joggers",
+    "slug": "sandstorm-joggers-beige",
+    "category": "joggers",
+    "type": "jogger",
+    "price": 1299,
+    "mrp": 1799,
+    "colors": [
+      {
+        "name": "Beige",
+        "hex": "#d8cdb8"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "S": 0,
+      "M": 20,
+      "L": 5,
+      "XL": 8,
+      "XXL": 5
+    },
+    "images": [
+      "assets/products/jogger-beige.jpg",
+      "assets/products/jogger-beige.jpg"
+    ],
+    "description": "Beige wide joggers with a soft drape. Neutral tone, maximal comfort.",
+    "fabric": "320 GSM loopback cotton · elasticated drawstring waist · cuffed hems",
+    "tags": [],
+    "createdAt": "2026-08-08"
+  },
+  {
+    "id": "wt-jg04",
+    "name": "Moss Run Joggers",
+    "slug": "moss-run-joggers-olive",
+    "category": "joggers",
+    "type": "jogger",
+    "price": 1399,
+    "mrp": 1899,
+    "colors": [
+      {
+        "name": "Olive",
+        "hex": "#7a7a52"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "S": 0,
+      "M": 3,
+      "L": 12,
+      "XL": 15,
+      "XXL": 5
+    },
+    "images": [
+      "assets/products/jogger-olive.jpg",
+      "assets/products/jogger-olive.jpg"
+    ],
+    "description": "Olive joggers with a tapered ankle. Trail colour for city miles.",
+    "fabric": "320 GSM loopback cotton · elasticated drawstring waist · cuffed hems",
+    "tags": [],
+    "createdAt": "2026-07-29"
+  },
+  {
+    "id": "wt-jg05",
+    "name": "Grey Matter Joggers",
+    "slug": "grey-matter-joggers",
+    "category": "joggers",
+    "type": "jogger",
+    "price": 1299,
+    "mrp": 1799,
+    "colors": [
+      {
+        "name": "Grey",
+        "hex": "#a3a3a8"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "S": 3,
+      "M": 15,
+      "L": 8,
+      "XL": 8,
+      "XXL": 15
+    },
+    "images": [
+      "assets/products/jogger-grey.jpg",
+      "assets/products/jogger-grey.jpg"
+    ],
+    "description": "Light-grey joggers in loopback cotton. The thinking person's sweatpants.",
+    "fabric": "320 GSM loopback cotton · elasticated drawstring waist · cuffed hems",
+    "tags": [],
+    "createdAt": "2026-06-25"
+  },
+  {
+    "id": "wt-jg06",
+    "name": "Bridge Walk Joggers",
+    "slug": "bridge-walk-joggers-grey",
+    "category": "joggers",
+    "type": "jogger",
+    "price": 1399,
+    "mrp": 1899,
+    "colors": [
+      {
+        "name": "Grey",
+        "hex": "#8d8d93"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "S": 8,
+      "M": 3,
+      "L": 5,
+      "XL": 3,
+      "XXL": 2
+    },
+    "images": [
+      "assets/products/jogger-grey-men.jpg",
+      "assets/products/jogger-grey-men.jpg"
+    ],
+    "description": "Mid-grey joggers with a drawstring waist. Dog-walk tested, bridge approved.",
+    "fabric": "320 GSM loopback cotton · elasticated drawstring waist · cuffed hems",
+    "tags": [
+      "bestseller"
+    ],
+    "createdAt": "2026-09-16"
+  },
+  {
+    "id": "wt-jg07",
+    "name": "Midnight Metro Joggers",
+    "slug": "midnight-metro-joggers-navy",
+    "category": "joggers",
+    "type": "jogger",
+    "price": 1499,
+    "mrp": 1999,
+    "colors": [
+      {
+        "name": "Navy",
+        "hex": "#26304d"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "S": 15,
+      "M": 12,
+      "L": 12,
+      "XL": 5,
+      "XXL": 15
+    },
+    "images": [
+      "assets/products/jogger-navy.jpg",
+      "assets/products/jogger-navy.jpg"
+    ],
+    "description": "Navy joggers with a clean cuff. Matches every hoodie you own.",
+    "fabric": "320 GSM loopback cotton · elasticated drawstring waist · cuffed hems",
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-10-11"
+  },
+  {
+    "id": "wt-jg08",
+    "name": "Pink Noise Joggers",
+    "slug": "pink-noise-joggers",
+    "category": "joggers",
+    "type": "jogger",
+    "price": 1499,
+    "mrp": 1999,
+    "colors": [
+      {
+        "name": "Pink",
+        "hex": "#ff5fa2"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "S": 12,
+      "M": 8,
+      "L": 12,
+      "XL": 8,
+      "XXL": 5
+    },
+    "images": [
+      "assets/products/jogger-pink.jpg",
+      "assets/products/jogger-pink-2.jpg"
+    ],
+    "description": "Hot-pink wide joggers. Main-character energy, elastic waistband.",
+    "fabric": "320 GSM loopback cotton · elasticated drawstring waist · cuffed hems",
+    "tags": [],
+    "createdAt": "2026-09-03"
+  },
+  {
+    "id": "wt-c01",
+    "name": "Urban Ops Cargo",
+    "slug": "urban-ops-cargo-olive",
+    "category": "cargos",
+    "type": "cargo",
+    "price": 1699,
+    "mrp": 1999,
+    "colors": [
+      {
+        "name": "Olive",
+        "hex": "#5c5c38"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "S": 3,
+      "M": 3,
+      "L": 12,
+      "XL": 8,
+      "XXL": 0
+    },
+    "images": [
+      "assets/products/cargo-olive.jpg",
+      "assets/products/cargo-olive.jpg"
+    ],
+    "description": "Olive cargo pants with six pockets and zero chill. Our flagship bottom.",
+    "fabric": "Cotton ripstop with 6 utility pockets · relaxed straight fit · adjustable drawcord hem",
+    "tags": [
+      "new",
+      "bestseller"
+    ],
+    "createdAt": "2026-10-02"
+  },
+  {
+    "id": "wt-c02",
+    "name": "Stealth Pocket Cargo",
+    "slug": "stealth-pocket-cargo-black",
+    "category": "cargos",
+    "type": "cargo",
+    "price": 1599,
+    "mrp": 1999,
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#232326"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "S": 20,
+      "M": 0,
+      "L": 20,
+      "XL": 0,
+      "XXL": 3
+    },
+    "images": [
+      "assets/products/cargo-black.jpg",
+      "assets/products/cargo-black.jpg"
+    ],
+    "description": "Black cargos with matte hardware. Pockets for days, drama included.",
+    "fabric": "Cotton ripstop with 6 utility pockets · relaxed straight fit · adjustable drawcord hem",
+    "tags": [],
+    "createdAt": "2026-08-21"
+  },
+  {
+    "id": "wt-c03",
+    "name": "Salmon Rush Cargo",
+    "slug": "salmon-rush-cargo-pink",
+    "category": "cargos",
+    "type": "cargo",
+    "price": 1599,
+    "mrp": 1999,
+    "colors": [
+      {
+        "name": "Salmon",
+        "hex": "#e8a2a2"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "S": 15,
+      "M": 3,
+      "L": 20,
+      "XL": 15,
+      "XXL": 8
+    },
+    "images": [
+      "assets/products/cargo-pink.jpg",
+      "assets/products/cargo-pink.jpg"
+    ],
+    "description": "Salmon-pink cargos that break every rule politely. Surprisingly versatile.",
+    "fabric": "Cotton ripstop with 6 utility pockets · relaxed straight fit · adjustable drawcord hem",
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-10-19"
+  },
+  {
+    "id": "wt-c04",
+    "name": "Dune Rider Cargo",
+    "slug": "dune-rider-cargo-khaki",
+    "category": "cargos",
+    "type": "cargo",
+    "price": 1499,
+    "mrp": 1899,
+    "colors": [
+      {
+        "name": "Khaki",
+        "hex": "#b09a72"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "S": 12,
+      "M": 0,
+      "L": 8,
+      "XL": 8,
+      "XXL": 12
+    },
+    "images": [
+      "assets/products/cargo-khaki.jpg",
+      "assets/products/cargo-khaki.jpg"
+    ],
+    "description": "Khaki cargo joggers with cinched hems. Desert-ready, street-certified.",
+    "fabric": "Cotton ripstop with 6 utility pockets · relaxed straight fit · adjustable drawcord hem",
+    "tags": [
+      "bestseller"
+    ],
+    "createdAt": "2026-09-07"
+  },
+  {
+    "id": "wt-c05",
+    "name": "Army Surplus Cargo",
+    "slug": "army-surplus-cargo-olive",
+    "category": "cargos",
+    "type": "cargo",
+    "price": 1399,
+    "mrp": 1799,
+    "colors": [
+      {
+        "name": "Olive",
+        "hex": "#6e6e45"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "S": 8,
+      "M": 12,
+      "L": 5,
+      "XL": 12,
+      "XXL": 20
+    },
+    "images": [
+      "assets/products/cargo-olive-2.jpg",
+      "assets/products/cargo-olive-2.jpg"
+    ],
+    "description": "Baggy olive cargos with oversized flap pockets. Surplus energy, zero surplus price.",
+    "fabric": "Cotton ripstop with 6 utility pockets · relaxed straight fit · adjustable drawcord hem",
+    "tags": [],
+    "createdAt": "2026-07-08"
+  },
+  {
+    "id": "wt-c06",
+    "name": "Cream Dream Cargo",
+    "slug": "cream-dream-cargo",
+    "category": "cargos",
+    "type": "cargo",
+    "price": 1699,
+    "mrp": 1999,
+    "colors": [
+      {
+        "name": "Cream",
+        "hex": "#e3dcc9"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "S": 0,
+      "M": 15,
+      "L": 15,
+      "XL": 0,
+      "XXL": 15
+    },
+    "images": [
+      "assets/products/cargo-beige.jpg",
+      "assets/products/cargo-beige.jpg"
+    ],
+    "description": "Cream wide-leg cargos. Wear with confidence and an umbrella for chai spills.",
+    "fabric": "Cotton ripstop with 6 utility pockets · relaxed straight fit · adjustable drawcord hem",
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-10-16"
+  },
+  {
+    "id": "wt-c07",
+    "name": "Tech Utility Cargo",
+    "slug": "tech-utility-cargo-black",
+    "category": "cargos",
+    "type": "cargo",
+    "price": 1899,
+    "mrp": 1999,
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#17171a"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "S": 2,
+      "M": 20,
+      "L": 5,
+      "XL": 20,
+      "XXL": 15
+    },
+    "images": [
+      "assets/products/cargo-black-2.jpg",
+      "assets/products/cargo-black-2.jpg"
+    ],
+    "description": "Black techwear cargos with strap details. Looks like the future, priced like now.",
+    "fabric": "Cotton ripstop with 6 utility pockets · relaxed straight fit · adjustable drawcord hem",
+    "tags": [
+      "bestseller"
+    ],
+    "createdAt": "2026-09-20"
+  },
+  {
+    "id": "wt-c08",
+    "name": "Asfalt Wide Cargo",
+    "slug": "asfalt-wide-cargo-grey",
+    "category": "cargos",
+    "type": "cargo",
+    "price": 1499,
+    "mrp": 1899,
+    "colors": [
+      {
+        "name": "Grey",
+        "hex": "#7d7d80"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": {
+      "S": 5,
+      "M": 0,
+      "L": 5,
+      "XL": 8,
+      "XXL": 3
+    },
+    "images": [
+      "assets/products/cargo-grey.jpg",
+      "assets/products/cargo-grey-2.jpg"
+    ],
+    "description": "Grey wide-leg cargos with a paperbag waist. Street-style photographers love these.",
+    "fabric": "Cotton ripstop with 6 utility pockets · relaxed straight fit · adjustable drawcord hem",
+    "tags": [],
+    "createdAt": "2026-08-30"
+  },
+  {
+    "id": "wt-a01",
+    "name": "Whiteout Cap",
+    "slug": "whiteout-cap",
+    "category": "accessories",
+    "type": "accessory",
+    "price": 499,
+    "mrp": 699,
+    "colors": [
+      {
+        "name": "White",
+        "hex": "#f2f2ee"
+      }
+    ],
+    "sizes": [
+      "Free"
+    ],
+    "stock": {
+      "Free": 8
+    },
+    "images": [
+      "assets/products/acc-cap-white.jpg",
+      "assets/products/acc-cap-white.jpg"
+    ],
+    "description": "Crisp white 6-panel cap with an adjustable strap. Bad hair day's worst enemy.",
+    "fabric": "Everyday essential · spot clean only",
+    "tags": [],
+    "createdAt": "2026-08-11"
+  },
+  {
+    "id": "wt-a02",
+    "name": "Washed Out Cap",
+    "slug": "washed-out-cap-grey",
+    "category": "accessories",
+    "type": "accessory",
+    "price": 449,
+    "mrp": 649,
+    "colors": [
+      {
+        "name": "Grey",
+        "hex": "#6e6e72"
+      }
+    ],
+    "sizes": [
+      "Free"
+    ],
+    "stock": {
+      "Free": 6
+    },
+    "images": [
+      "assets/products/acc-cap-grey.jpg",
+      "assets/products/acc-cap-grey.jpg"
+    ],
+    "description": "Washed grey cap with a faded finish. Looks vintage, smells brand new.",
+    "fabric": "Everyday essential · spot clean only",
+    "tags": [
+      "bestseller"
+    ],
+    "createdAt": "2026-09-26"
+  },
+  {
+    "id": "wt-a03",
+    "name": "Caramel Mini Bag",
+    "slug": "caramel-mini-bag-tan",
+    "category": "accessories",
+    "type": "accessory",
+    "price": 899,
+    "mrp": 999,
+    "colors": [
+      {
+        "name": "Tan",
+        "hex": "#b07a45"
+      }
+    ],
+    "sizes": [
+      "Free"
+    ],
+    "stock": {
+      "Free": 15
+    },
+    "images": [
+      "assets/products/acc-bag-tan.jpg",
+      "assets/products/acc-bag-tan.jpg"
+    ],
+    "description": "Tan structured mini bag. Fits phone, keys, gloss and one secret.",
+    "fabric": "Everyday essential · spot clean only",
+    "tags": [
+      "new"
+    ],
+    "createdAt": "2026-10-14"
+  },
+  {
+    "id": "wt-a04",
+    "name": "Midnight Commuter Backpack",
+    "slug": "midnight-commuter-backpack-navy",
+    "category": "accessories",
+    "type": "accessory",
+    "price": 899,
+    "mrp": 999,
+    "colors": [
+      {
+        "name": "Navy",
+        "hex": "#22304f"
+      }
+    ],
+    "sizes": [
+      "Free"
+    ],
+    "stock": {
+      "Free": 15
+    },
+    "images": [
+      "assets/products/acc-backpack-navy.jpg",
+      "assets/products/acc-backpack-navy.jpg"
+    ],
+    "description": "Navy daypack with padded straps. Swallows a 15-inch laptop whole.",
+    "fabric": "Everyday essential · spot clean only",
+    "tags": [],
+    "createdAt": "2026-07-22"
+  },
+  {
+    "id": "wt-a05",
+    "name": "Black Trail Backpack",
+    "slug": "black-trail-backpack",
+    "category": "accessories",
+    "type": "accessory",
+    "price": 949,
+    "mrp": 999,
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#26262b"
+      }
+    ],
+    "sizes": [
+      "Free"
+    ],
+    "stock": {
+      "Free": 2
+    },
+    "images": [
+      "assets/products/acc-backpack-black.jpg",
+      "assets/products/acc-backpack-black.jpg"
+    ],
+    "description": "Black backpack with tan leather straps. Campus to campsite without a costume change.",
+    "fabric": "Everyday essential · spot clean only",
+    "tags": [
+      "bestseller"
+    ],
+    "createdAt": "2026-09-10"
+  },
+  {
+    "id": "wt-a06",
+    "name": "Bubblegum Daypack",
+    "slug": "bubblegum-daypack-pink",
+    "category": "accessories",
+    "type": "accessory",
+    "price": 849,
+    "mrp": 999,
+    "colors": [
+      {
+        "name": "Pink",
+        "hex": "#e58aa8"
+      }
+    ],
+    "sizes": [
+      "Free"
+    ],
+    "stock": {
+      "Free": 12
+    },
+    "images": [
+      "assets/products/acc-backpack-pink.jpg",
+      "assets/products/acc-backpack-pink.jpg"
+    ],
+    "description": "Mauve-pink mini backpack. Small bag, main-character energy.",
+    "fabric": "Everyday essential · spot clean only",
+    "tags": [],
+    "createdAt": "2026-08-16"
+  },
+  {
+    "id": "wt-a07",
+    "name": "Rust Belt",
+    "slug": "rust-belt-brown",
+    "category": "accessories",
+    "type": "accessory",
+    "price": 599,
+    "mrp": 799,
+    "colors": [
+      {
+        "name": "Brown",
+        "hex": "#7a4a2b"
+      }
+    ],
+    "sizes": [
+      "Free"
+    ],
+    "stock": {
+      "Free": 20
+    },
+    "images": [
+      "assets/products/acc-belt-brown.jpg",
+      "assets/products/acc-belt-brown.jpg"
+    ],
+    "description": "Full-grain brown leather belt with an antique buckle. Holds up pants and reputations.",
+    "fabric": "Everyday essential · spot clean only",
+    "tags": [],
+    "createdAt": "2026-06-18"
+  },
+  {
+    "id": "wt-a08",
+    "name": "Cloud Socks 2-Pack",
+    "slug": "cloud-socks-2-pack-white",
+    "category": "accessories",
+    "type": "accessory",
+    "price": 299,
+    "mrp": 449,
+    "colors": [
+      {
+        "name": "White",
+        "hex": "#f4f4f0"
+      }
+    ],
+    "sizes": [
+      "Free"
+    ],
+    "stock": {
+      "Free": 3
+    },
+    "images": [
+      "assets/products/acc-socks-white.jpg",
+      "assets/products/acc-socks-white.jpg"
+    ],
+    "description": "White ribbed crew socks, pack of two. The unsung heroes of every fit pic.",
+    "fabric": "Everyday essential · spot clean only",
+    "tags": [],
+    "createdAt": "2026-10-25"
+  }
+]
